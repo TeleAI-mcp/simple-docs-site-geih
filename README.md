@@ -1,2 +1,3 @@
-# simple-docs-site-geih
-A documentation website for modern development workflows
+# Simple Docs Site Geih
+
+A documentation website for modern development workflows.
